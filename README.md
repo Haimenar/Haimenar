@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alec Forston
 
-<!--
-**Haimenar/Haimenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a bioinformatics student who discovered a passion for software development along the way. 
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  What I’m up to:  
+- Building unique projects like a **Tamerlane Chess game with AI** and a **genome visualizer**  
+- Expanding my expertise in **Java**, **Python** and **React**  
+- Exploring cutting-edge areas in **Python**, **machine learning**, and **software engineering**  

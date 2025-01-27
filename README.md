@@ -1,6 +1,6 @@
 # Hi, I'm Alec Forston
 
-I’m a bioinformatics student who discovered a passion for software development along the way. 
+I’m a bioinformatics student who discovered a passion for software development. 
 
 ## Languages and Tools  
 <div align="left">

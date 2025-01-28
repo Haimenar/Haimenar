@@ -13,6 +13,6 @@ I’m a bioinformatics student who discovered a passion for software development
 ---
 
 ###  What I’m up to:  
-- Building unique projects like a **Tamerlane Chess game with AI** and a **genome visualizer**  
+- Building unique projects like **Tamerlane Chess**, a 14th century chess variant with more pieces and a larger board than standard chess  
 - Expanding my expertise in **Java**, **Python** and **React**  
 - Exploring cutting-edge areas in **Python**, **machine learning**, and **software engineering**  
